@@ -1,0 +1,15 @@
+{
+  "name": "choo_test",
+  "version": "1.0.0",
+  "description": "Test use of choo",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js --live",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kohei TAKATA",
+  "license": "MIT",
+  "dependencies": {
+    "choo": "^2.2.0"
+  }
+}
